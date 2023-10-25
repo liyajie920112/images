@@ -1,0 +1,148 @@
+[
+  {
+    "id": "187",
+    "label": "AAAA",
+    "disabled": false,
+    "isLeaf": false,
+    "children": [
+      {
+        "id": "188",
+        "label": "BBBB",
+        "disabled": false,
+        "isLeaf": false,
+        "children": [
+          {
+            "id": "189",
+            "label": "CCCC",
+            "disabled": false,
+            "isLeaf": false,
+            "children": [
+              {
+                "id": "131594039181967360",
+                "label": "DDD",
+                "disabled": false,
+                "isLeaf": false,
+                "children": [
+                  {
+                    "id": "131594064888856576",
+                    "label": "EEE",
+                    "disabled": false,
+                    "isLeaf": true,
+                    "children": [{
+                      "id": "189",
+                      "label": "FFFF",
+                      "disabled": false,
+                      "isLeaf": false
+                    }]
+                  },
+                  {
+                    "id": "131594096648126464",
+                    "label": "GGG",
+                    "disabled": false,
+                    "isLeaf": true
+                  },
+                  {
+                    "id": "131594230916186112",
+                    "label": "HHHH",
+                    "disabled": false,
+                    "isLeaf": true
+                  },
+                  {
+                    "id": "131594284833964032",
+                    "label": "JJJJ",
+                    "disabled": false,
+                    "isLeaf": true
+                  },
+                  {
+                    "id": "131594337220820992",
+                    "label": "KKKK",
+                    "disabled": false,
+                    "isLeaf": true
+                  },
+                  {
+                    "id": "131594584550539264",
+                    "label": "LLLL",
+                    "disabled": false,
+                    "isLeaf": true
+                  }
+                ]
+              },
+              {
+                "id": "131594150272303104",
+                "label": "MMMM",
+                "disabled": false,
+                "isLeaf": false,
+                "children": [
+                  {
+                    "id": "131594201782550528",
+                    "label": "NNNN",
+                    "disabled": false,
+                    "isLeaf": true
+                  },
+                  {
+                    "id": "131594638254407680",
+                    "label": "OOOO",
+                    "disabled": false,
+                    "isLeaf": true
+                  }
+                ]
+              },
+              {
+                "id": "131596537053577216",
+                "label": "PPPP",
+                "disabled": false,
+                "isLeaf": true
+              }
+            ]
+          },
+          {
+            "id": "123112",
+            "label": "QQQQ",
+            "disabled": false,
+            "isLeaf": false,
+            "children": [
+              {
+                "id": "131578464800079872",
+                "label": "RRRR",
+                "disabled": false,
+                "isLeaf": false,
+                "children": [
+                  {
+                    "id": "131578491635236864",
+                    "label": "SSSSS",
+                    "disabled": false,
+                    "isLeaf": true
+                  },
+                  {
+                    "id": "131594557828628480",
+                    "label": "TTTT",
+                    "disabled": false,
+                    "isLeaf": true
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "191",
+            "label": "UUUU",
+            "disabled": false,
+            "isLeaf": true
+          }
+        ]
+      },
+      {
+        "id": "192",
+        "label": "VVVV",
+        "disabled": false,
+        "isLeaf": true,
+        "children": [{
+          "id": "123",
+          "label": "123",
+          "disabled": false,
+          "isLeaf": true
+        }]
+      }
+    ]
+  }
+]
